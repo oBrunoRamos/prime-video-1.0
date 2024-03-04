@@ -1,0 +1,51 @@
+[
+          {
+                    "provider":"Telecine",
+                    "providerImg": "",
+                    "award":"OSCAR® nominee",
+                    "title":"Puss in Boots: The Last Wish",
+                    "description":"Everyone's favorite swashbuckling feline returns for a new adventure in the Shrek universe as Puss in Boots goes on a grand quest to find a magical Wishing Star.",
+                    "imdbRating":7.8,
+                    "movieTime":[1, 42],
+                    "relaseYear": 2023,
+                    "badges":{
+                              "xRay":true,
+                              "hdr":true,
+                              "uhd":true
+                    },
+                    "parentalRating": 0,
+                    "subtitles": true,
+                    "movieGenre":[
+                              "Kids",
+                              "Comedy",
+                              "Fun",
+                              "Strange"
+                    ],
+                    "rentPrice":14.9,
+                    "buyPrice":39.9,
+                    "moreInfo":{
+                              "contentAdvisory":"Fantasy violence",
+                              "audioLanguages":[
+                                        "English",
+                                        "Português"
+                              ],
+                              "subtitles":[
+                                        "Português"
+                              ],
+                              "directors":[
+                                        "Joel Crawford",
+                                        "Januel P. Mercado"
+                              ],
+                              "Producers":[
+                                        "Mark Swift"
+                              ],
+                              "Starring":[
+                                        "Antônio Banderas",
+                                        "Salma Hayek",
+                                        "John Mulaney"
+                              ]
+                    },
+                    "studio": "DreamWorks"
+
+          }
+]
